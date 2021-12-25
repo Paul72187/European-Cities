@@ -15,3 +15,8 @@ I want to be able to compare population data from both western and eastern Europ
 As a user
 So that I can get a sense of how European nation states are performing economically
 I want to be able to list some key macroeconomic indicators from all nation states across Europe.
+
+As a user
+So that I can understand the year-on-year growth or decline of European nation states
+I want to be able to compare data on Gross Domestic Product (GDP) growth or decline over the past 12 months.
+
