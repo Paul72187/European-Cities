@@ -23,3 +23,7 @@ I want to be able to compare data on Gross Domestic Product (GDP) growth or decl
 As a user
 So that I can get a sense of the comparative wealth of European nation states
 I want to be able to compare data on Gross Domestic Product (GDP) per capita in US Dollars between nation states.
+
+As a user
+So that I can understand current economic activity of the workforce across European nation states
+I want to be able to compare labour market data, with a specific focus on unemployment in individual countries.
