@@ -20,3 +20,6 @@ As a user
 So that I can understand the year-on-year growth or decline of European nation states
 I want to be able to compare data on Gross Domestic Product (GDP) growth or decline over the past 12 months.
 
+As a user
+So that I can get a sense of the comparative wealth of European nation states
+I want to be able to compare data on Gross Domestic Product (GDP) per capita in US Dollars between nation states.
