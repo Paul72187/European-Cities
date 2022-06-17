@@ -6,7 +6,7 @@ This is a clone of the well-known Hangman game. Each player must guess the lette
 ### Background to the app:
 The app is built using Python 3.10. The words used for each game are stored in a separate Python file (hangman_words.py) and are selected at random.
 
-### To Run
+### To Run:
 Clone the repo: `git clone https://github.com/Paul72187/Hangman.git`
 
 ### Run Hangman App locally
